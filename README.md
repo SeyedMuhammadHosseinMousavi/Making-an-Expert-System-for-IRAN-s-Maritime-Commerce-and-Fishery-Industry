@@ -18,6 +18,9 @@ Using automatic expert system in any industry, could increase the service qualit
 
 ![t1](https://github.com/user-attachments/assets/2110c7fc-d402-4db9-86be-1e8fa78be23c)
 ![t12](https://github.com/user-attachments/assets/3c97fe48-a633-4454-b2f3-a2820a5e2a2b)
+![products](https://github.com/user-attachments/assets/7ed3b012-4900-4671-a4e7-cf20f7959b26)
+![t2](https://github.com/user-attachments/assets/a63f1165-6b3b-4a64-acdd-99a68e34fc70)
+![t3](https://github.com/user-attachments/assets/660eae72-0441-45d0-af83-8483b6bbad58)
 
 
         
