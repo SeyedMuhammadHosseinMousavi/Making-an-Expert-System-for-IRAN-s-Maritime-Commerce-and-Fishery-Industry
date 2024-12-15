@@ -1,5 +1,11 @@
-#
+# Making an Expert System for IRAN’s Maritime Commerce and Fishery Industry
 
+### Link to the paper:
+- https://www.researchgate.net/publication/324950957_Making_an_Expert_System_for_IRAN's_Maritime_Commerce_and_Fishery_Industry
+- https://en.civilica.com/doc/853895/
+### Please cite:
+- Mousavi, Seyed Muhammad Hossein,1397,Making an Expert System for IRAN’s Maritime Commerce and Fishery Industry,Third National Conference on Computer Engineering, Information Technology and Data Processing,Tehran,https://civilica.com/doc/853895
+- Mousavi, Seyed Muhammad Hossein. "Making an Expert System for IRAN’s Maritime Commerce and Fishery Industry. Third National Conference on computer engineering Information Technology And data processing, Tehran-Iran, 2018".
 
 ## ABSTRACT
 
