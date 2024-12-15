@@ -9,12 +9,16 @@ Using automatic expert system in any industry, could increase the service qualit
 
 </div>
 
-
-
-
-
-
-
 - Author:Seyed Mohammad Hossein Mosavi  August 12, 2015  
-- To execute:1.open clp file  2.load the file from File menu   3.choice run from execution menu   (lines number = 500)         
+- To execute:1.open clp file  2.load the file from File menu   3.choice run from execution menu   (lines number = 500) 
+
+![image](https://github.com/user-attachments/assets/ada3ed5a-86c3-4c55-b39e-0f3c0da92c0b)
+
+![f2](https://github.com/user-attachments/assets/fd627c1f-9541-4ea9-9a91-fa7d43d58ad1)
+
+![t1](https://github.com/user-attachments/assets/2110c7fc-d402-4db9-86be-1e8fa78be23c)
+![t12](https://github.com/user-attachments/assets/3c97fe48-a633-4454-b2f3-a2820a5e2a2b)
+
+
+        
                                                                                                                              
